@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/saim-mayo/campus-events/issues"
   },
-  "homepage": "https://github.com/saim-mayo/campus-events#readme"
+  "homepage": "https://github.com/saim-mayo/campus-events#readme",
+  "type": "commonjs"
 }
